@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "test": {
+    "scrimp": {
       "commandName": "Project",
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"
